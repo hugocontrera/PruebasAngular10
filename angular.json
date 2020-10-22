@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PruebasAngular10"
+    }
+  },
+  "defaultProject": "PruebasAngular10",
+  "cli": {
+    "analytics": "fb4fc0ca-053d-46a7-80f9-77638131749c"
+  }
 }
